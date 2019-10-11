@@ -1,0 +1,40 @@
+Splunkey.png
+size: 415, 96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jump_down
+  rotate: false
+  xy: 0, 0
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+Jump_up
+  rotate: false
+  xy: 80, 0
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+Standing
+  rotate: false
+  xy: 168, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+Walking1
+  rotate: false
+  xy: 256, 0
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: 1
+Walking2
+  rotate: false
+  xy: 335, 0
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: 2

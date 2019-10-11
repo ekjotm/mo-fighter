@@ -1,0 +1,76 @@
+OmSheet.png
+size: 300, 300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Standing
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 0
+  offset: 0, 0
+  index: -1
+Run1
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+Run2
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 0
+  offset: 0, 0
+  index: -1
+Run3
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 200, 0
+  offset: 0, 0
+  index: -1
+Run4
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 0, 100
+  offset: 0, 0
+  index: -1
+Run5
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Run6
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+Run7
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 0, 0
+  offset: 0, 200
+  index: -1
+Run8
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 0, 0
+  offset: 100, 200
+  index: -1
+Run9
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ 
